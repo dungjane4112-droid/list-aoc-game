@@ -1,0 +1,14 @@
+[
+ {
+   "name":"teaching feeling",
+   "icon":"icon/teaching-feeling.png",
+   "describe":"Teaching Feeling xoay quanh câu chuyện về Sylvie, một phụ nữ trẻ đã phải chịu đựng sự ngược đãi và chấn thương từ người chủ cũ của mình. Người chơi thừa kế Sylvie như một nô lệ và được trao trách nhiệm quyết định cách đối xử với cô ấy. Trò chơi nhấn mạnh vào sự lựa chọn của người chơi, cung cấp các con đường có thể dẫn đến sự chữa lành và tình cảm hoặc tiếp tục bị bóc lột và gây hại.Trò chơi chủ yếu dựa trên cốt truyện, với người chơi tương tác thông qua các tùy chọn đối thoại và hoạt động hàng ngày. Những lựa chọn này ảnh hưởng đến trạng thái cảm xúc và thể chất của Sylvie, cuối cùng quyết định kết quả của trò chơi.",
+   "link":"67-36.netlify.app"
+  },
+  {
+    "name":"devastate",
+    "icon":"icon/devastate.png",
+    "describe":"Devastate là một game mô phỏng với đồ họa theo phong cách anime và lối chơi tương tác. Nhìn chung, game được mô tả là một trò chơi tập trung vào nhân vật, nơi người chơi tương tác với môi trường câu chuyện, lựa chọn hội thoại, hoàn thành các nhiệm vụ đơn giản, quản lý vật phẩm và khám phá hệ thống tiến triển.",
+    "link":"minhbaofurry.netlify.app"
+   }
+]
