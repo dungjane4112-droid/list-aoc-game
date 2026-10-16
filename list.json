@@ -16,5 +16,11 @@
    "icon":"icon/gta-vice.png",
    "describe":"gta vice city là trò chơi của rock star bây giờ chúng đã có thể chạy trên web với wasm",
    "link":"https://joncodeofficial.github.io/gta-vice-city-wasm/"
+  },
+  {
+   "name":"gta 5",
+   "icon":"icon/gta-5.png",
+   "describe":"gta 5 là trò chơi của rock star bây giờ chúng đã có thể chạy trên web với wasm",
+   "link":"https://web.archive.org/web/20261005232456/https://playgta5.com/"
   }
 ]
