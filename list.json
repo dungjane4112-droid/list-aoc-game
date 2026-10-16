@@ -19,8 +19,62 @@
   },
   {
    "name":"gta 5",
-   "icon":"icon/gta-5.png",
+   "icon":"icon/gta-5.jpg",
    "describe":"gta 5 là trò chơi của rock star bây giờ chúng đã có thể chạy trên web với wasm",
    "link":"https://web.archive.org/web/20261005232456/https://playgta5.com/"
-  }
+  },
+  {
+   "name":"slient hill",
+   "icon":"icon/slient-hill.jpg",
+   "describe":"Silent Hill là một thương hiệu trò chơi điện tử thể loại kinh dị sinh tồn (survival horror) do Konami phát triển và phát hành, nổi tiếng với bầu không khí u ám, sương mù đặc trưng và yếu tố kinh dị tâm lý",
+   "link":"https://silenthillorigins.zeliaopen.space/"
+   },
+   {
+   "name":"BO1 Zombies",
+   "icon":"icon/bo1.webp",
+   "describe":"Call of Duty: Black Ops – Zombies là một trò chơi phụ củachế độ Zombies trong loạt game Call of Duty và là phần tiếp theo của Call of Duty: World at War – Zombies .",
+   "link":"https://vel.gg/bo1z"
+   },
+   {
+   "name":"half-life",
+   "icon":"icon/half-life.jpg",
+   "describe":"Half-Life là một trò chơi bắn súng góc nhìn thứ nhất ra mắt năm 1998 do Valve Corporation phát triển và Sierra Studios xuất bản cho hệ điều hành Windows. Đây là sản phẩm đầu tay của Valve và là trò chơi đầu tiên trong loạt Half-Life.",
+   "link":"https://pixelsuft.github.io/hl/xash.html#150"
+   },
+   {
+   "name":"modern-warfare2",
+   "icon":"icon/modern-warfare2.jpg",
+   "describe":"Call of Duty: Modern Warfare 2 là một trò chơi điện tử thể loại bắn súng góc nhìn thứ nhất, được phát triển bởi Infinity Ward và phát hành bởi Activision. Trò chơi được ra mắt vào ngày 11 tháng 2 năm 2009 và phát hành trên toàn thế giới vào ngày 10 tháng 11 cùng năm.",
+   "link":"https://ovz-game-production.up.railway.app/"
+   },
+   {
+   "name":"pes6",
+   "icon":"icon/pes6.jpg",
+   "describe":"Pro Evolution Soccer 6, gọi tắt là PES 6, hay được biết đến với tên Winning Eleven: Pro Evolution Soccer 2007 tại Hoa Kỳ, World Soccer: Winning Eleven 10 tại Nhật Bản[a] là một trò chơi điện tử được phát triển và phát hành bởi Konami phát hành vào năm 2006",
+   "link":"https://pes6.optijuegos.net/"
+   },
+   {
+   "name":"quake1",
+   "icon":"icon/quake.jpg",
+   "describe":"Quake (1996): Tựa game gốc định hình thể loại đồ họa 3D thực và chế độ chơi mạng trực tuyến TCP/IP.",
+   "link":"q1.pieter.com"
+   },
+   {
+   "name":"quake2",
+   "icon":"icon/quake.jpg",
+   "describe":"Quake II & Quake IV: Tập trung vào cuộc chiến giữa loài người và chủng tộc ngoài hành tinh Strogg.",
+   "link":"q2.pieter.com"
+   },
+   {
+   "name":"quake3",
+   "icon":"icon/quake.jpg",
+   "describe":"Quake III Arena / Quake Live / Quake Champions: Chuyên về đấu trường mạng cạnh tranh (Arena shooter).",
+   "link":"q3.pieter.com"
+   },
+   {
+   "name":"skate 3",
+   "icon":"icon/skate-3.jpg",
+   "describe":"Skate 3 là một trò chơi điện tử trượt ván năm 2010 , phần thứ ba trong loạt trò chơi Skate và là phần tiếp theo của Skate 2 năm 2009 , được phát triển bởi EA Black Box và xuất bản bởi Electronic Arts .Nó được phát hành trên toàn thế giới vào tháng 5 năm 2010 ",
+   "link":"https://skate.aaddpp.lol/"
+   }
 ]
