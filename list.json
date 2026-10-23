@@ -6,6 +6,12 @@
    "link":"67-36.netlify.app/game.html"
   },
   {
+   "name":"FFTF15",
+   "icon":"icon/fftf.webp",
+   "describe":"furry game UwU",
+   "link":"fftf15.netlify.app"
+   },
+  {
    "name":"devastate",
    "icon":"icon/devastate.png",
    "describe":"Devastate là một game mô phỏng với đồ họa theo phong cách anime và lối chơi tương tác. Nhìn chung, game được mô tả là một trò chơi tập trung vào nhân vật, nơi người chơi tương tác với môi trường câu chuyện, lựa chọn hội thoại, hoàn thành các nhiệm vụ đơn giản, quản lý vật phẩm và khám phá hệ thống tiến triển.",
